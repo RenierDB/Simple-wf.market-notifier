@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "name": "High_Voltage",
+            "sellprice": 50,
+            "buyprice": 30
+        },
+        {
+            "name": "Voltaic_Strike",
+            "sellprice": 50,
+            "buyprice": 30
+        },
+        {
+            "name": "Jolt",
+            "sellprice": 50,
+            "buyprice": 30
+        }
+    ]
+}
